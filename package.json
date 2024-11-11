@@ -1,0 +1,9 @@
+{
+  "name": "@narakeet/text-to-speech-api-polling-nodejs-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
