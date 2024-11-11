@@ -13,7 +13,8 @@ To use this example, you will need NodeJS 20 or later, and an API key for Narake
 ## Running the example
 
 
-1. edit [index.mjs](index.mjs) and change the text, format and voice parameters on lines 7-9; optionally you can change how the API key is loaded on line 6 if you do not want to load it from the environment variables.
+1. set your Narakeet API key as the environment variable NARAKEET_API_KEY
+2. edit [index.mjs](index.mjs) and change the text, format and voice parameters on lines 7-9; optionally you can change how the API key is loaded on line 6 if you do not want to load it from the environment variables.
 2. run `node index.mjs`
 3. check the file printed by the final status, it will contain the generated MP3 file
 
