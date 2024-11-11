@@ -1,6 +1,6 @@
 # Narakeet Text to Speech Long Content (Polling) API example in JavaScript (NodeJS)
 
-This repository provides a quick example demonstrating how to access the Narakeet [streaming Text to Speech API](https://www.narakeet.com/docs/automating/text-to-speech-api/) from NodeJS. 
+This repository provides a quick example demonstrating how to access the Narakeet [Long Content Text to Speech API](https://www.narakeet.com/docs/automating/text-to-speech-api/) from NodeJS. 
 
 The example sends a request to generate audio from text and saves it `output.mp3` in the local directory.
 
